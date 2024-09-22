@@ -1,1 +1,1 @@
-"# decentralized-app" 
+A Java based E-learning platform
